@@ -11,7 +11,8 @@ import SwiftUI
 struct fox_coding_interviewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+         tabBar()
         }
+    
     }
 }
